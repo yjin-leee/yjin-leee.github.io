@@ -1,18 +1,19 @@
+# Site
 title:              Yjin's Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+# email:              your-email@example.com
+description:        A Personal Blog by yjin
+# author:             yjin-leee
 baseurl:            ""
 url:                "https://yjin-leee.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
-linkedin_username:
+# twitter_username:   SBootstrap
+github_username:    yjin-leee
+# facebook_username:  StartBootstrap
+# linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# google_analytics:    # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
@@ -22,3 +23,14 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# Authors
+authors:
+  sal:
+    name: yjin-leee
+    display_name: yjin
+    gravatar: 
+    email: yjin.lee@kakao.com
+    web: https://yjin-leee.github.io
+    # twitter: https://twitter.com/username
+    description: "Post Daily contents"
